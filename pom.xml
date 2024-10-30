@@ -70,6 +70,7 @@
                     <artifactId>h2</artifactId>
                     <scope>test</scope>
                 </dependency>
+<<<<<<< HEAD
                 
                 
                 <!-- https://mvnrepository.com/artifact/org.telegram/telegrambots -->
@@ -80,6 +81,8 @@
                 </dependency>
                 
 
+=======
+>>>>>>> 85f3a08fddb33f74c5e1adb85b231ac7370c6f7c
 
 	</dependencies>
                         <build>
